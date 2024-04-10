@@ -1,0 +1,84 @@
+Name,Weight,Height,Age,citizenship,Team,Jersey,Position,FoulsCommitted,RedCards,TotalGoals
+Harry Kane,190,1.88,29,England,Tottenham Hotspur,10,Forward,22,0,21
+Ivan Toney,152,1.78,27,England,Brentford,17,Forward,45,0,16
+Marcus Rashford,152,1.8,25,England,Manchester United,10,Forward,7,0,14
+Gabriel Martinelli,153,1.78,21,Brazil,Arsenal,11,Forward,31,0,13
+Bukayo Saka,154,1.78,21,England,Arsenal,7,Midfielder,27,0,12
+Rodrigo,155,1.83,32,Spain,Leeds United,19,Forward,17,0,11
+Aleksandar Mitrovic,156,1.88,28,Serbia,Fulham,9,Forward,29,0,11
+Mohamed Salah,158,1.75,30,Egypt,Liverpool,11,Forward,10,0,11
+Phil Foden,160,1.7,22,England,Manchester City,47,Midfielder,6,0,9
+James Maddison,161,1.75,26,England,Leicester City,10,Midfielder,20,0,9
+Harvey Barnes,162,1.75,25,England,Leicester City,7,Midfielder,26,0,9
+Ollie Watkins,163,1.8,27,England,Aston Villa,11,Forward,17,0,9
+Roberto Firmino,164,1.8,31,Brazil,Liverpool,9,Forward,6,0,8
+Danny Ings,165,1.78,30,England,West Ham United,18,Forward,11,0,8
+Leandro Trossard,167,1.73,28,Belgium,Arsenal,19,Forward,17,0,8
+Callum Wilson,168,1.8,31,England,Newcastle United,9,Forward,15,0,7
+Alexis Mac Allister,169,1.75,24,Argentina,Brighton & Hove Albion,10,Midfielder,23,0,7
+Kai Havertz,170,1.93,23,Germany,Chelsea,29,Midfielder,47,0,7
+Solly March,171,1.8,28,England,Brighton & Hove Albion,7,Midfielder,38,0,7
+Brennan Johnson,172,1.78,21,Wales,Nottingham Forest,20,Forward,26,0,7
+James Ward-Prowse,173,1.73,28,England,Southampton,8,Midfielder,27,0,7
+Alexander Isak,174,1.93,23,Sweden,Newcastle United,14,Forward,7,0,6
+Kaoru Mitoma,175,1.78,25,Japan,Brighton & Hove Albion,22,Midfielder,9,0,6
+Philip Billing,176,1.93,26,Denmark,AFC Bournemouth,29,Midfielder,24,0,6
+Son Heung-Min,177,1.83,30,South Korea,Tottenham Hotspur,7,Forward,8,0,6
+Wilfried Zaha,178,1.8,30,Ivory Coast,Crystal Palace,11,Forward,28,0,6
+Riyad Mahrez,181,1.78,32,Algeria,Manchester City,26,Forward,7,0,5
+Yoane Wissa,182,1.75,26,France,Brentford,11,Midfielder,15,0,5
+Gabriel Jesus,183,1.75,25,Brazil,Arsenal,9,Forward,23,0,5
+Rodrigo Bentancur,184,1.88,25,Uruguay,Tottenham Hotspur,30,Midfielder,24,0,5
+Daniel Podence,185,1.65,27,Portugal,Wolverhampton Wanderers,10,Midfielder,25,0,5
+Bryan Mbeumo,188,1.73,23,Cameroon,Brentford,19,Midfielder,16,0,5
+Mathias Jensen,189,1.8,27,Denmark,Brentford,8,Midfielder,24,0,5
+Bruno Fernandes,190,1.78,28,Portugal,Manchester United,8,Midfielder,32,0,5
+Manor Solomon,192,1.7,23,Israel,Fulham,11,Midfielder,1,0,4
+Cody Gakpo,193,1.93,23,Netherlands,Liverpool,18,Forward,12,0,4
+Taiwo Awoniyi,194,1.83,25,Nigeria,Nottingham Forest,9,Forward,8,0,4
+Patson Daka,195,1.83,24,Zambia,Leicester City,20,Forward,10,0,4
+Jadon Sancho,196,1.8,22,England,Manchester United,25,Forward,5,0,4
+Crysencio Summerville,134,1.75,21,Netherlands,Leeds United,10,Forward,16,0,4
+Edward Nketiah,159,1.75,23,England,Arsenal,14,Forward,24,0,4
+Kieffer Moore,194,1.96,30,Wales,AFC Bournemouth,21,Forward,22,0,4
+Raheem Sterling,150,1.73,28,England,Chelsea,17,Forward,16,0,4
+Leon Bailey,170,1.78,25,Jamaica,Aston Villa,31,Forward,25,0,4
+Eberechi Eze,161,1.78,24,England,Crystal Palace,10,Midfielder,19,0,4
+Bernardo Silva,139,1.73,28,Portugal,Manchester City,20,Midfielder,21,0,4
+Kevin De Bruyne,150,1.8,31,Belgium,Manchester City,17,Midfielder,19,0,4
+Demarai Gray,161,1.8,26,England,Everton,11,Forward,15,0,4
+Bobby De Cordova-Reid,150,1.7,30,Jamaica,Fulham,14,Forward,30,0,4
+Granit Xhaka,174,1.85,30,Switzerland,Arsenal,34,Midfielder,18,0,4
+Jarrod Bowen,152,1.75,26,England,West Ham United,20,Forward,18,0,4
+Pierre-Emile Hojbjerg,183,1.88,27,Denmark,Tottenham Hotspur,5,Midfielder,28,0,4
+Reiss Nelson,157,1.75,23,England,Arsenal,24,Forward,3,0,3
+Anthony Martial,168,1.8,27,France,Manchester United,9,Forward,3,0,3
+Evan Ferguson,172,1.83,18,,Brighton & Hove Albion,28,Forward,4,0,3
+Kelechi Iheanacho,181,1.85,26,Nigeria,Leicester City,14,Forward,12,0,3
+Chris Wood,179,1.9,31,New Zealand,Nottingham Forest,39,Forward,6,0,3
+Gianluca Scamacca,185,1.96,24,Italy,West Ham United,7,Forward,16,0,3
+Jaidon Anthony,158,1.83,23,England,AFC Bournemouth,32,Forward,9,0,3
+Antony,139,1.75,23,Brazil,Manchester United,21,Forward,8,0,3
+Michail Antonio,181,1.8,32,Jamaica,West Ham United,9,Forward,18,0,3
+Josh Dasilva,163,1.83,24,England,Brentford,10,Midfielder,11,0,3
+Anthony Gordon,159,1.83,22,England,Newcastle United,10,Forward,23,0,3
+Marcus Tavernier,152,1.78,23,England,AFC Bournemouth,16,Midfielder,12,0,3
+Willian,168,1.75,34,Brazil,Fulham,20,Forward,8,0,3
+Jack Grealish,168,1.75,27,England,Manchester City,10,Midfielder,18,0,3
+Dwight McNeil,150,1.83,23,England,Everton,7,Forward,14,0,3
+Vitaly Janelt,172,1.83,24,Germany,Brentford,27,Midfielder,12,0,3
+Mason Mount,168,1.8,24,England,Chelsea,19,Midfielder,28,0,3
+Jacob Ramsey,171,1.8,21,England,Aston Villa,41,Midfielder,21,0,3
+Youri Tielemans,159,1.75,25,Belgium,Leicester City,8,Midfielder,23,0,3
+Jack Harrison,152,1.75,26,England,Leeds United,11,Midfielder,26,0,3
+Thomas Partey,170,1.85,29,Ghana,Arsenal,5,Midfielder,23,0,3
+Dominic Solanke,174,1.88,25,England,AFC Bournemouth,9,Forward,24,0,3
+Douglas Luiz,146,1.75,24,Brazil,Aston Villa,6,Midfielder,30,1,3
+Virgil van Dijk,203,1.96,31,Netherlands,Liverpool,4,Defender,8,0,3
+Jefferson Lerma,152,1.78,28,Colombia,AFC Bournemouth,8,Midfielder,24,0,3
+Ben Mee,161,1.8,33,England,Brentford,16,Defender,11,0,3
+Gabriel,172,1.9,25,Brazil,Arsenal,6,Defender,15,0,3
+Carlos Alcaraz,150,1.75,20,Argentina,Southampton,26,Midfielder,6,0,2
+Fabio Carvalho,152,1.7,20,Portugal,Liverpool,28,Midfielder,5,0,2
+Alejandro Garnacho,174,1.8,18,Argentina,Manchester United,49,Forward,6,0,2
+Emmanuel Dennis,148,1.75,25,Nigeria,Nottingham Forest,25,Forward,7,0,2
